@@ -1,0 +1,22 @@
+{
+	"nom":"Dupont",
+	"prenom":"Paul",
+	"modules":[
+			{
+				"nom":"md1",
+				"duree":2
+			},
+						{
+				"nom":"md2",
+				"duree":1
+			},
+						{
+				"nom":"md3",
+				"duree":2
+			},
+			{
+				"nom":"md4",
+				"duree":3
+			}			
+	]
+}
